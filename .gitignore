@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# VSCode settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# System Files
+Thumbs.db
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.sqlite3
+
+# Static and media
+/staticfiles/
+/media/
+
+# Environment variables
+.env
+.env.*
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# Coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+.coverage.*
+
+# Node modules (if using JS/CSS builds)
+node_modules/
+
+# Other
+*.bak
+*.swp
